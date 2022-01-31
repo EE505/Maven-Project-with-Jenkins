@@ -1,0 +1,7 @@
+﻿<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>devops.simpilearn</groupId>
+  <artifactId>maven.java</artifactId>
+  <version>1</version>
+</project>
